@@ -37,7 +37,6 @@
     }
     return self;
 }
-//tasdasd
 
 -(IBAction)showQuestion:(id)sender
 {
